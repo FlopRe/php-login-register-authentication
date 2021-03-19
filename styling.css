@@ -1,0 +1,16 @@
+body {
+  width: 70%;
+  margin: 3em 15%;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 3em;
+}
+
+section form > * {
+  display: block;
+  margin-bottom: 0.5em;
+}
