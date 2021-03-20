@@ -1,5 +1,5 @@
-# 🔐 PHP User Register / Login / Logout
-A simple but secure script for web user authentication (registration, login and logout) using PHP & Mysqli prepared statements
+# 🔐 PHP Authentication (Register / Login / Logout)
+Simple & secure script for user authentication using PHP & Mysqli prepared statements. Demo uses HTML POST forms and GET for returning the status.
 
 ### 👉 Prerequisites
 - **Hosting:** either XAMPP locally or any external web host
